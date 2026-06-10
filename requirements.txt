@@ -1,0 +1,30 @@
+# ── Core RAG Framework ────────────────────────────────────────
+langchain==0.2.16
+langchain-community==0.2.17
+langchain-core==0.2.39
+langchain-huggingface==0.0.3
+
+# ── Embeddings ─────────────────────────────────────────────────
+sentence-transformers==3.0.1
+huggingface-hub==0.24.6
+
+# ── Vector Store ───────────────────────────────────────────────
+chromadb==0.5.5
+
+# ── Document Loaders ───────────────────────────────────────────
+pypdf==4.3.1
+python-docx==1.1.2
+unstructured==0.15.9
+
+# ── LLM (Groq API — Llama 3 gratuito) ─────────────────────────
+groq==0.9.0
+langchain-groq==0.1.9
+
+# ── Interface ──────────────────────────────────────────────────
+streamlit==1.38.0
+streamlit-chat==0.1.1
+
+# ── Utilitários ────────────────────────────────────────────────
+python-dotenv==1.0.1
+pydantic==2.8.2
+tiktoken==0.7.0
