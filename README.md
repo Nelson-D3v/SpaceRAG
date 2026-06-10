@@ -2,7 +2,7 @@
 
 ## 🎬 Vídeo Demonstrativo
 
-[![SpaceRAG Demo](https://img.youtube.com/vi/KmHKnx1y74E/0.jpg)](https://youtu.be/KmHKnx1y74E)
+[![SpaceRAG Demo](https://img.youtube.com/vi/SA3ayAbbnLQ/0.jpg)](https://youtu.be/SA3ayAbbnLQ)
 
 > Clique na imagem para assistir à demonstração completa no YouTube.
 
