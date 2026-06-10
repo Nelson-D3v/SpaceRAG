@@ -1,5 +1,11 @@
 # 🛸 SpaceRAG — Assistente Inteligente para Nova Economia Espacial
 
+## 🎬 Vídeo Demonstrativo
+
+[![SpaceRAG Demo](https://img.youtube.com/vi/KmHKnx1y74E/0.jpg)](https://youtu.be/KmHKnx1y74E)
+
+> Clique na imagem para assistir à demonstração completa no YouTube.
+
 > Sistema de Retrieval-Augmented Generation (RAG) para consulta inteligente
 > de documentos sobre clima, satélites, agricultura espacial e exploração espacial.
 
